@@ -9,7 +9,7 @@ Olá! 👋 Meu nome é Mikaela
 - 👩‍💻 Ex(?)-desenvolvedora **Java**, agora mergulhando no **JavaScript**, **TypeScript** e **Python**.  
 - 🎯 Apaixonada por **resolução de problemas** e tentando entender o mundo da **inteligência artificial**.
 - 🧠 Atuando como Gestora de Desenvolvimento na [Smartiks](https://www.smartiks.com/) e Analista de Tecnologia da Informação na [UFCG](https://portal.ufcg.edu.br/)  
-- 📚 Sempre em buscar de aprender algo novo!  
+- 📚 Sempre em busca de aprender algo novo!  
 
 ---
 
